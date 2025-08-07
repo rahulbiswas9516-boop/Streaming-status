@@ -1,4 +1,8 @@
+# New / Aug 7
+NEW : [sx-client](https://github.com/4levy/sx-client)
 
+
+---
 Please ```npm install``` first before running the script
 
 Supported [Render](https://github.com/4levy/Streaming-status-render)
