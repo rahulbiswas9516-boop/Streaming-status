@@ -33,4 +33,3 @@ npm install
     <img src="https://api.star-history.com/svg?repos=4levy/Streaming-status&type=Date&theme=dark">
   </a>
 </p>
-```  
